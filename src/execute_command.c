@@ -1,8 +1,8 @@
 /*
 GRUP ÜYELERİ:
 G221210383 Metin Aydın
-G221210071 Bilal avcı
-G22121008G Furkan Ay
+G221210071 Bilal Avcı
+G221210089 Furkan Ay
 G221210047 Furkan Kesicioğlu
 G221210045 Mehmet Bosdancı
 */
